@@ -26,16 +26,16 @@ const MessiWebsite = () => {
               The greatest footballer of all time. 8x Ballon d'Or winner, World Cup champion, and global icon.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="/" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Facebook className="w-6 h-6" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-pink-400 transition-colors">
+              <a href="/" className="text-gray-400 hover:text-pink-400 transition-colors">
                 <Instagram className="w-6 h-6" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-blue-300 transition-colors">
+              <a href="/" className="text-gray-400 hover:text-blue-300 transition-colors">
                 <Twitter className="w-6 h-6" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-red-500 transition-colors">
+              <a href="/" className="text-gray-400 hover:text-red-500 transition-colors">
                 <Youtube className="w-6 h-6" />
               </a>
             </div>
@@ -111,9 +111,9 @@ const MessiWebsite = () => {
             </p>
 
             <div className="flex gap-6 text-sm">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">Terms of Service</a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">Cookie Policy</a>
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">Terms of Service</a>
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">Cookie Policy</a>
             </div>
           </div>
         </div>
